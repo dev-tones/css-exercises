@@ -1,0 +1,13 @@
+.firstRule {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+
+}
+.secondRule {
+  background-color: yellow;
+}
+.thirdRule {
+  font-size: 28px;
+  font-family: helvetica, times new roman sans-serif, ;
+}
